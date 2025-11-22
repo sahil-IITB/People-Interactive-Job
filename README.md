@@ -3,7 +3,7 @@
 M.Tech (IIT Bombay) | Specialization: Control & Computing  
 Email: [sahil.patil.ee@iitb.ac.in](mailto:sahil.patil.ee@iitb.ac.in) · GitHub: [sahil-IITB](https://github.com/sahil-IITB)
 
-[Resume (PDF)](/mnt/data/24M1087-2.pdf)
+[Resume (PDF)](24M1087-2.pdf)
 
 ---
 
