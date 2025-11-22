@@ -19,7 +19,6 @@ I build reproducible image-processing pipelines and scalable retrieval systems. 
 - Improved fingerprint processing using mask-based core point detection with orientation smoothing and rotation alignment.  
 - Built a prototype attendance system for smartphone-captured fingerprints and validated on campus data.  
 **Tech:** OpenCV, Python, Gabor filters, Wavelet denoising  
-**Repo:** https://github.com/sahil-IITB/contactless-biometrics *(add README and dataset instructions)*
 
 ---
 
@@ -27,15 +26,15 @@ I build reproducible image-processing pipelines and scalable retrieval systems. 
 **Institute Technical Council project**  
 - 4-layer CNN with BatchNorm and Dropout for 7-class emotion classification. Achieved 63.33% test accuracy using data augmentation and Adam optimizer.  
 **Tech:** PyTorch, NumPy, Matplotlib  
-**Repo:** https://github.com/sahil-IITB/fer-cnn
-
+**Repo:** [https://github.com/sahil-IITB/fer-cnn
+](https://github.com/sahil-IITB/Facial-Recognition-and-Emotional-Analysis)
 ---
 
 ### 3) FLINNG — Near Neighbor Search via Group Testing
 **CS754 course project**  
 - Implemented group testing + LSH + Bloom filter indexing for large-scale image retrieval on YFCC100M embeddings. Achieved ~1.25× speedup with good recall/precision.  
 **Tech:** Python, NumPy, Cosine LSH, Bloom filters  
-**Repo:** https://github.com/sahil-IITB/flinng-yfcc
+**Repo:**[ https://github.com/sahil-IITB/flinng-yfcc](https://github.com/sahil-IITB/Practical-Near-Neighbor-Search-via-Group-Testing)
 
 ---
 
@@ -50,8 +49,11 @@ I build reproducible image-processing pipelines and scalable retrieval systems. 
 ## Education & Achievements
 - **M.Tech**, IIT Bombay — Control & Computing (CPI: 8.8)  
 - GATE ECE 2024 — 98.29 percentile  
-- TA: EE324 Control Systems Laboratory
 
+
+## Position of Responsibilities
+- Public Relations Convener, PG Cultural Council, IIT Bombay
+- Core Team Member, YOGASTHA, IIT Bombay
 ---
 
 ## Contact
@@ -60,5 +62,4 @@ I build reproducible image-processing pipelines and scalable retrieval systems. 
 
 ---
 
-> _Note:_ Resume PDF included in this repo as `/mnt/data/24M1087-2.pdf`. Please replace it with `resume.pdf` if you push to GitHub and update the path accordingly.
 
